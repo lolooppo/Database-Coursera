@@ -1,2 +1,3 @@
 # Database
-Exercises and home works of database courses from STANDFORD university on edx.  
+Exercises and homeworks of database course by META on coursera.
+course [link](https://www.coursera.org/learn/intro-to-databases-back-end-development).
